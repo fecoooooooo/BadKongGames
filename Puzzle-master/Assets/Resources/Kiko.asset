@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ead3160dddebc745b699193205c4b1b, type: 3}
+  m_Name: Kiko
+  m_EditorClassIdentifier: 
+  model_name: Kiko
+  model_id: 806
+  model_general_image: {fileID: 21300000, guid: 14a27ac649019fb488d41147dba3c0fb,
+    type: 3}
+  model_view_text: {fileID: 21300000, guid: f1b47eeee4bd9d547876161e10e2cbb1, type: 3}
+  model_voice_name: girl1
+  gameModelChildren:
+  - id: 821
+    model_picture_1200: {fileID: 2800000, guid: 5be49895b2844f14b9569144bc524fe5,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: 5be49895b2844f14b9569144bc524fe5,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: 6fbe0d49ff9afa8498af0876b9aa7fd6,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 8cb4308799bac174e940c8654e7ffa43,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: 9d241b25e2d6ee347be2fb602607fd04,
+      type: 3}
+    unlocked: 0
+    completed: 0
+  - id: 822
+    model_picture_1200: {fileID: 2800000, guid: 7dcad0ca0189d2c42bf39f243dd34cc8,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: 7dcad0ca0189d2c42bf39f243dd34cc8,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: fe770990bbca9db49882ee4e6008c418,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 3cc3899b83a230a499e04ccb27485424,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: fd54f299c86e1d24f9e5d40b56deb603,
+      type: 3}
+    unlocked: 0
+    completed: 0

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ead3160dddebc745b699193205c4b1b, type: 3}
+  m_Name: Akuma
+  m_EditorClassIdentifier: 
+  model_name: Akuma
+  model_id: 801
+  model_general_image: {fileID: 21300000, guid: a1464dcfd14470140b16f2361aa8e904,
+    type: 3}
+  model_view_text: {fileID: 21300000, guid: f026122cf862af741a3730234de223f6, type: 3}
+  model_voice_name: girl6
+  gameModelChildren:
+  - id: 811
+    model_picture_1200: {fileID: 2800000, guid: 36bc97bdbfba9d147b17d3a30e05f7fa,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: 36bc97bdbfba9d147b17d3a30e05f7fa,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: 308c650c11ba4484b9d3e700cd43226d,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 5333ea063e95ab04f90186f23f1c730f,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: 6aeeaafe478c9984b9cb763173e19ff6,
+      type: 3}
+    unlocked: 0
+    completed: 0
+  - id: 812
+    model_picture_1200: {fileID: 2800000, guid: 8f4f6f3c05158904b9535d94a718f6f0,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: 8f4f6f3c05158904b9535d94a718f6f0,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: bad2e72d173991546b134c2201969df4,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 42ffc8d4a2492a34ab2da0fb0e1ad919,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: 1239444549c89ac4991fb7b8d14e5670,
+      type: 3}
+    unlocked: 0
+    completed: 0

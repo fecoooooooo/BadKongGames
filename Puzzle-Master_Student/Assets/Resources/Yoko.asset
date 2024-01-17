@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ead3160dddebc745b699193205c4b1b, type: 3}
+  m_Name: Yoko
+  m_EditorClassIdentifier: 
+  model_name: Yoko
+  model_id: 806
+  model_general_image: {fileID: 21300000, guid: e03a104df1f91224ab1fecc92411503c,
+    type: 3}
+  model_view_text: {fileID: 21300000, guid: cfa8895b07626ce499475e6b983ecadb, type: 3}
+  model_voice_name: girl1
+  gameModelChildren:
+  - id: 821
+    model_picture_1200: {fileID: 2800000, guid: 2631e15a6ceb039448c25f48543d0b7e,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: 2631e15a6ceb039448c25f48543d0b7e,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: 571698e7d320bbb4eb39170cfc36f419,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 274fe42435592e141a67c7e991ca2109,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: 7b53ac0371e34af4fa7f2aeb643fe057,
+      type: 3}
+    unlocked: 0
+    completed: 0
+  - id: 822
+    model_picture_1200: {fileID: 2800000, guid: b3ca158548e4315409818f4ebe1ae3cf,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: b3ca158548e4315409818f4ebe1ae3cf,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: 86425d7d3cb3a174b813d2cc21d1428f,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 75b44a64ac461984aa0b68bcced50430,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: 6f21735f6e57a9442ac7e374a5713879,
+      type: 3}
+    unlocked: 0
+    completed: 0
