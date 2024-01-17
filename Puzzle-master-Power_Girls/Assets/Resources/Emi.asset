@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ead3160dddebc745b699193205c4b1b, type: 3}
+  m_Name: Emi
+  m_EditorClassIdentifier: 
+  model_name: Emi
+  model_id: 802
+  model_general_image: {fileID: 21300000, guid: a81ce717caecc78498e897181911024e,
+    type: 3}
+  model_view_text: {fileID: 21300000, guid: 0eaad0bae8baaa54d9bc67efde56c448, type: 3}
+  model_voice_name: girl2
+  gameModelChildren:
+  - id: 813
+    model_picture_1200: {fileID: 2800000, guid: a136b0ca0a4676547ac4c41559f78c29,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: f3bc0a0314f8ea645b721d4f9900e9f8,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: 5f2d2aceac19a484e967d05e59d37a5d,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 80ac202d407ca0a4d9e5646191b5a19f,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: 544194625c1582f429c004a14144a6bb,
+      type: 3}
+    unlocked: 0
+    completed: 0
+  - id: 814
+    model_picture_1200: {fileID: 2800000, guid: 030c195183cff23469d9b1d20ec86b11,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: 030c195183cff23469d9b1d20ec86b11,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: 4850d3305ac0a7c4884e54c2596fe26e,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: a8f95eb688080894296fbfb43e3dc803,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: b1fd8f9847a030c46b5c2e7eeeb6af13,
+      type: 3}
+    unlocked: 0
+    completed: 0

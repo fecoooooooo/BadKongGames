@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ead3160dddebc745b699193205c4b1b, type: 3}
+  m_Name: Shimai
+  m_EditorClassIdentifier: 
+  model_name: Shimai
+  model_id: 801
+  model_general_image: {fileID: 21300000, guid: 471ae93d5ee5e5344b8f37910e56a0e4,
+    type: 3}
+  model_view_text: {fileID: 21300000, guid: 7e005fc16df5e9b4382cd43d0c3d5e53, type: 3}
+  model_voice_name: girl6
+  gameModelChildren:
+  - id: 811
+    model_picture_1200: {fileID: 2800000, guid: c63adc31dcbeb6540b82f678711e18a8,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: c63adc31dcbeb6540b82f678711e18a8,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: da01b62ecfbbd0f48adb971b744e604e,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: e1563e40c5ceeb14593fc5ebc1ffa58b,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: a602521ee8b9eb14ab9d8c3cae008f9b,
+      type: 3}
+    unlocked: 0
+    completed: 0
+  - id: 812
+    model_picture_1200: {fileID: 2800000, guid: 975ad20628e9bc94e8365f6151a738ec,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: 975ad20628e9bc94e8365f6151a738ec,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: 2618b0724b9070742934d8f46b7faaeb,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: ac134b950780e10438275b3642d9f78b,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: 1d803c8bd9856384ca84d3692b56f56e,
+      type: 3}
+    unlocked: 0
+    completed: 0

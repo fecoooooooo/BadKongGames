@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ead3160dddebc745b699193205c4b1b, type: 3}
+  m_Name: Kaya
+  m_EditorClassIdentifier: 
+  model_name: Kaya
+  model_id: 803
+  model_general_image: {fileID: 21300000, guid: 37c1d6facf54af147a3eff0c3a479fe2,
+    type: 3}
+  model_view_text: {fileID: 21300000, guid: 6dc34da6c628552499e251be8e621138, type: 3}
+  model_voice_name: girl3
+  gameModelChildren:
+  - id: 815
+    model_picture_1200: {fileID: 2800000, guid: ada18fc159285d2458fd9373bc7d9f18,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: ada18fc159285d2458fd9373bc7d9f18,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: fa460ddf3d44c71439a8c663abe13435,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 8f5d7201b5aa7a84592f0063f9802e9e,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: 8f0dc243788c835429eb1e4e90a7fe72,
+      type: 3}
+    unlocked: 0
+    completed: 0
+  - id: 816
+    model_picture_1200: {fileID: 2800000, guid: d7448c3c7e6621f4388c7cd09461ac00,
+      type: 3}
+    model_sprite_1200: {fileID: 21300000, guid: d7448c3c7e6621f4388c7cd09461ac00,
+      type: 3}
+    model_picture_960: {fileID: 21300000, guid: d38ede9386b7b5c48a0d660091c9c5d6,
+      type: 3}
+    model_picture_160: {fileID: 21300000, guid: 5892efc26d617644aaddc0ad1b21c00e,
+      type: 3}
+    model_picture_160_blurred: {fileID: 21300000, guid: ad0e4bf9e08703046afaba0422295380,
+      type: 3}
+    unlocked: 0
+    completed: 0
